@@ -1,0 +1,18 @@
+{
+  "name": "hosted-app-example",
+  "description": "A hosted app example",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/icon128x128.png"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Hosted",
+      "description": "A hosted app example"
+    }
+  },
+  "developer": {
+    "name": "jeanpan",
+    "url": "https://github.com/jeanpan"
+  }
+}
