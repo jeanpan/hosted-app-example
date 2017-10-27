@@ -14,5 +14,6 @@
   "developer": {
     "name": "jeanpan",
     "url": "https://github.com/jeanpan"
-  }
+  },
+  "default_locale": "en-US"
 }
