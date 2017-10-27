@@ -1,9 +1,9 @@
 {
   "name": "hosted-app-example",
   "description": "A hosted app example",
-  "launch_path": "/index.html",
+  "launch_path": "/hosted-app-example/index.html",
   "icons": {
-    "128": "/icons/icon128x128.png"
+    "128": "/hosted-app-example/icons/icon128x128.png"
   },
   "locales": {
     "en-US": {
